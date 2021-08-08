@@ -1,0 +1,7 @@
+{
+  "entity": "CLIENT",
+  "error": {
+    "code": "0002",
+    "message": "Clients not found"
+  }
+}

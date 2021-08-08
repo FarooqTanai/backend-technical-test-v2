@@ -1,0 +1,7 @@
+{
+  "entity": "ORDER",
+  "error": {
+    "code": "0009",
+    "message": "Order cannot be updated"
+  }
+}

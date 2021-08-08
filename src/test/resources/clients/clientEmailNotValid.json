@@ -1,0 +1,7 @@
+{
+  "entity": "CLIENT",
+  "error": {
+    "code": "0004",
+    "message": "Email address is not valid"
+  }
+}

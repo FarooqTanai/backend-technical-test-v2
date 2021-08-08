@@ -1,0 +1,7 @@
+{
+  "entity": "ORDER",
+  "error": {
+    "code": "0008",
+    "message": "Order with orderNumber 'jkl4r5' not found"
+    }
+}

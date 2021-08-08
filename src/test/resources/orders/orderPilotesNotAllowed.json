@@ -1,0 +1,7 @@
+{
+  "entity": "ORDER",
+  "error": {
+    "code": "0007",
+    "message": "Pilotes not allowd, pilotes must be one of these: [5, 10, 15]"
+  }
+}

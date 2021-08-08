@@ -1,0 +1,7 @@
+{
+  "entity": "CLIENT",
+  "error": {
+    "code": "0011",
+    "message": "Field 'firstName' is required"
+  }
+}

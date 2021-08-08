@@ -1,0 +1,17 @@
+{
+  "entity": "ORDER",
+  "data": [
+    {
+      "number": "def321",
+      "deliveryAddress": {
+        "street": "street 2",
+        "postcode": "32200",
+        "city": "milan",
+        "country": "italy"
+      },
+      "pilotes": 15,
+      "orderTotal": 150.0,
+      "clientId": 2
+    }
+  ]
+}

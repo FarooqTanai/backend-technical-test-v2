@@ -1,0 +1,7 @@
+{
+  "entity": "CLIENT",
+  "error": {
+    "code": "0006",
+    "message": "Sex is not valid"
+  }
+}

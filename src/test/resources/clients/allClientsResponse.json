@@ -1,0 +1,29 @@
+{
+  "entity": "CLIENT",
+  "data": [
+    {
+      "id": 1,
+      "firstName": "tom",
+      "lastName": "jerry",
+      "telephone": "+393880000000",
+      "email": "test@mail.com",
+      "sex": "male"
+    },
+    {
+      "id": 2,
+      "firstName": "pecos",
+      "lastName": "joan",
+      "telephone": "+393880000002",
+      "email": "test2@mail.com",
+      "sex": "female"
+    },
+    {
+      "id": 3,
+      "firstName": "george",
+      "lastName": "little",
+      "telephone": "+393880000003",
+      "email": "test3@mail.com",
+      "sex": "male"
+    }
+  ]
+}

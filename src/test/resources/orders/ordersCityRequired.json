@@ -1,0 +1,7 @@
+{
+  "entity": "ORDER",
+  "error": {
+    "code": "0011",
+    "message": "Field 'deliveryAddress.city' is required"
+  }
+}

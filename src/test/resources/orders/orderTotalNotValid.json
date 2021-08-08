@@ -1,0 +1,7 @@
+{
+  "entity": "ORDER",
+  "error": {
+    "code": "0010",
+    "message": "Order total is not valid"
+  }
+}
